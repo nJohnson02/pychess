@@ -5,7 +5,7 @@ A simple program to play Chess!
 
 Clone the repository & install TKinter
 ```
-git clone https://github.com/Dapp3rDuck/pychess.gitgit
+git clone https://github.com/Dapp3rDuck/pychess.git
 py -m pip install tk
 py main.py
 ```
