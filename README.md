@@ -20,4 +20,4 @@ py main.py
 * **Nathan Johnson**
 * **Ryan Waite**
 
-See also the list of [contributors](https://github.com/RHarr6306/Chess/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Dapp3rDuck/pychess/contributors) who participated in this project.
