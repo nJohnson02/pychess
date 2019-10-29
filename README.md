@@ -3,16 +3,16 @@ A simple program to play Chess!
 
 ### Installing
 
-Clone the repository & install TKinter
+Clone the repository & install PyGame
 ```
-git clone https://github.com/Dapp3rDuck/pychess.gitgit
+git clone https://github.com/Dapp3rDuck/pychess.git
 py -m pip install tk
 py main.py
 ```
 
 ### Built With
 
-* [TKinter](https://docs.python.org/3/library/tkinter.html) - Python GUI
+* [PyGame](https://pypi.org/project/pygame/) - Python GUI
 
 ### Authors
 
