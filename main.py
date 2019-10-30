@@ -8,7 +8,8 @@ from src import movement, pieces
 from config import config
 
 # Setup
-screen = pygame.display.set_mode((800, 800))
+screen = pygame.display.set_mode((800, 700))
+
 class Board:
 
     def __init__(self, win):
