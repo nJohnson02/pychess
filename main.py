@@ -43,30 +43,8 @@ while True:
     fpsClock.tick(fps)
 
     #Piece Movement
-    def movePawn(dir,dist):
-        pass
-    def moveRook(dir,dist):
-        pass
-    def moveKnight(dir,dist):
-        pass
-    def moveBishop(dir,dist):
-        pass
-    def moveQueen(dir,dist):
-        pass
-    def moveKing(dir,dist):
-        pass
-
     """
-        Distance could be the number of spaces to move, ither diagonally or straight.
-        The distance variable could just be ignored in the case of pieces like the king or knight that can only move a definate number of spaces.
-        Directions could be based on unit circle or something.
-        Ex:               Or:
-             3                 1 = right
-          4 ---- 2             2 = up and right
-          5 |  | 1             3 = up
-          6 ---- 8             4 = up and left
-              7                5 = left
-                               6 = down and left
-                               7 = down
-                               8 = down and right
+        Highlight possible positions for a pice to move when clicked
+        Move to the next square clicked if it is in the highlighted region
+        Add a motion effect mabey
     """
