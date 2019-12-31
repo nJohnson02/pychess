@@ -16,8 +16,7 @@ py main.py
 
 ### Authors
 
-* Ryan Harrington
-* Nathan Johnson
-* Ryan Waite
+* [Le-SirH](https://github.com/Le-SirH)
+* [Dapp3rDuck](https://github.com/Dapp3rDuck)
 
 See also the list of [contributors](https://github.com/Dapp3rDuck/pychess/contributors) who participated in this project.
